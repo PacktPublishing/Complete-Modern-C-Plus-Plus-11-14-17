@@ -1,0 +1,32 @@
+Required software
+C++11/14 Compilers   
+
+You can choose any of the following compilers. In this training, we’ll use Visual Studio 2015/2017/2019 Community edition. The same programs can be compiled without any changes in any C++11/14 compliant compiler on any platform.   
+
+Windows
+
+Visual Studio 2015/2017/2019    [https://www.visualstudio.com/vs/community/]
+
+Code::Blocks - requires a separate compiler [www.codeblocks.org]
+
+Cevelop - requires a separate compiler [www.cevelop.org]
+
+Eclipse CDT - requires a separate compiler (same as Cevelop) [https://eclipse.org/cdt/downloads.php]
+
+MinGW [http://mingw.org/]
+
+Linux (Ubuntu, CentOS, etc)
+
+GNU C++ Compiler [Install from command line e.g. sudo apt-get install g++]
+
+Cevelop [www.cevelop.org]
+
+Eclipse CDT (same as Cevelop) [https://eclipse.org/cdt/downloads.php]
+
+MacOS
+
+XCode [Install from Mac Appstore]
+
+Cevelop [www.cevelop.org]
+
+Eclipse CDT (same as Cevelop) [https://eclipse.org/cdt/downloads.php]
