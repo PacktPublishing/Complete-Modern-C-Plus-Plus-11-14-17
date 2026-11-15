@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Backward Compatibility.vcxproj" Id="a495e833-3efd-4335-8a7e-f86eb472065d" />
+</Solution>

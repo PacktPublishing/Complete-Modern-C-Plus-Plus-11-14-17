@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RewrittenSynthesized.vcxproj" Id="3b701134-52e7-44aa-8a77-69cc0411dee3" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MoveSemantics.vcxproj" Id="7e3d1a7c-1052-4db4-99fb-9502a05095a7" />
+</Solution>
